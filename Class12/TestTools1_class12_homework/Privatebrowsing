@@ -1,0 +1,7 @@
+# Private Browsing
+* Browser history while in incognito mode remains empty.
+* Cookies from other websites such as big.g.doubleclick, va.v.liveperson, and lpsnmedia.net do not show up under cookies folder.
+* Cookies do not remain when exiting incognito browser.
+
+A tester might want to use incognito mode because it helps the tester browser the website without storing data on the browser. 
+This can be useful for the tester by allowing them to save time from not having to clear the cookies and history everytime they need to test websites.
